@@ -21,15 +21,11 @@ with interests in cybersecurity, networking, Linux, Python, artificial intellige
 
 **Development & Testing:** Git, GitHub, Pytest, FastAPI, REST APIs
 
-## 📂 Featured Projects
+## 🚀 Current Focus
 
-### AgroRisk AI
-FIAP team project involving IoT, APIs, data integration, and
-automated testing.
+I'm currently building hands-on projects in:
 
-### Cybersecurity Project
-FIAP team project involving authentication, rate limiting, and
-security testing.
-
-### YOLO Object Detection
-Personal project focused on computer vision and object detection.
+- 🔐 Cybersecurity and security monitoring
+- 🌐 Networking and network security
+- 🤖 Artificial intelligence and machine learning
+- 🐍 Python development
