@@ -8,7 +8,6 @@ with interests in cybersecurity, networking, Linux, Python, artificial intellige
 - 🎓 Cybersecurity student at Grand Valley State University
 - 🛡️ CompTIA Security+
 - 🐧 LPI Linux Essentials
-- 💻 Interested in cybersecurity, networking, Linux, Python, artificial intelligence, and machine learning
 - 🔬 Building cybersecurity and technology projects
 - 🌎 Brazilian student in the United States
 
