@@ -1,7 +1,7 @@
 # Hi, I'm Murilo 👋
 
 I'm a Cybersecurity student at Grand Valley State University
-with an interest in cybersecurity, networking, Linux, Python, artificial intelligence, and machine learning
+with interests in cybersecurity, networking, Linux, Python, artificial intelligence, and machine learning
 
 ## 🔐 About Me
 
